@@ -1,4 +1,4 @@
-package comcapgemini.main.entity;
+package com.capgemini.drinkanddelight.main.entity;
 
 import java.time.LocalDate;
 

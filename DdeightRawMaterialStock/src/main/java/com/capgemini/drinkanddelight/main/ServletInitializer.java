@@ -1,4 +1,4 @@
-package comcapgemini.main;
+package com.capgemini.drinkanddelight.main;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
